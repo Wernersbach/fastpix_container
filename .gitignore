@@ -1,0 +1,29 @@
+# JetBrains IDE-specific files
+.idea/
+*.iml
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pasta de saída da compilação
+out/
+
+# Arquivos de pacotes
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# dependências do diretório de trabalho do Maven
+target/
+
+# Arquivos de log
+*.log
+
+# Outros arquivos e pastas ignorados
+*.class
+*.swp
+*~
