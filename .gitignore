@@ -1,3 +1,5 @@
+.web/
+
 # JetBrains IDE-specific files
 .idea/
 *.iml
