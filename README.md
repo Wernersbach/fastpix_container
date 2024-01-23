@@ -44,7 +44,7 @@ A aplicação agora deve estar acessível em localhost:8000.
 - Web: http://localhost:8000
 - MySQL: localhost:3306 (ou a porta configurada no docker-compose.yml)
 
-## Após qualquier alteração de configuração no container, você precisa reeconstruir seu container:
+## Após qualquer alteração de configuração no container, você precisa reconstruir seu container:
 ```bash
 docker-compose up --build -d
 ```
